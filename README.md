@@ -50,4 +50,8 @@ As duas aplicações (backend e frontend) devem ser inicializadas separadamente.
    ```
 
 ## Demonstração
-https://github.com/user-attachments/assets/fa0cd4bf-cb2d-4d95-ba97-717f2ac948a3
+
+
+https://github.com/user-attachments/assets/5d0f8dfb-94aa-4a16-804c-d8c9dec43576
+
+
